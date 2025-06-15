@@ -1,0 +1,5 @@
+
+
+def register(request):
+    template = loader.get_template('register.html')
+    return HttpR
